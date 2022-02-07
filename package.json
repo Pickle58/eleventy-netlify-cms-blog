@@ -1,0 +1,14 @@
+{
+  "name": "eleventy-netlifycms-01",
+  "version": "1.0.0",
+  "description": "eleventy-netlifycms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Pilkington",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
